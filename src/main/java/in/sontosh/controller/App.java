@@ -1,5 +1,6 @@
 package in.sontosh.controller;
-
-public class App {
+ 
+@Controller
+public class App { 
 
 }
