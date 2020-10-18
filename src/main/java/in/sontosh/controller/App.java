@@ -10,7 +10,7 @@ public class App {
 
 	@GetMapping("/wel")
 	private String welCome() {
-		return "Wel Come To GitHub!!";
+		return "WelCome To GitHub!!";
 	}
 
 }
